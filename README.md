@@ -1,1 +1,2 @@
 # ReactProject
+# some notes here
